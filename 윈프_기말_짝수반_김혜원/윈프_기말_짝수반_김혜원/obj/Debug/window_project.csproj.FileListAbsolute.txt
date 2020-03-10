@@ -1,0 +1,28 @@
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csprojAssemblyReference.cache
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csproj.GenerateResource.cache
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csproj.CoreCompileInputs.cache
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\혜원\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_start.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csprojAssemblyReference.cache
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.form_start.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csproj.GenerateResource.cache
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\window_project.csproj.CoreCompileInputs.cache
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\혜원\OneDrive\바탕 화면\새 폴더 (2)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
